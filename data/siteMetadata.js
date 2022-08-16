@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'More Than Conquerors',
+  author: 'Martin Spriggs',
+  headerTitle: 'More Than Conquerors',
+  description: 'The digital home of Martin A. Spriggs',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -10,12 +10,11 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'martin@martinspriggs.com',
+  github: 'https://github.com/mspriggs',
+  twitter: 'https://twitter.com/mspriggs',
+  youtube: 'https://www.youtube.com/c/MartinSpriggs1',
+  linkedin: 'https://www.linkedin.com/martinspriggs',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the

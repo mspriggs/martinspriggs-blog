@@ -1,8 +1,3 @@
-const NEXT_PUBLIC_GISCUS_REPO = 'mspriggs/martinspriggs-blog'
-const NEXT_PUBLIC_GISCUS_REPOSITORY_ID = 'R_kgDOH0w6tw'
-const NEXT_PUBLIC_GISCUS_CATEGORY = 'General'
-const NEXT_PUBLIC_GISCUS_CATEGORY_ID = 'DIC_kwDOH0w6t84CQ2wX'
-
 const siteMetadata = {
   title: 'More Than Conquerors',
   author: 'Martin Spriggs',

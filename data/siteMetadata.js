@@ -5,8 +5,8 @@ const siteMetadata = {
   description: 'The digital home of Martin A. Spriggs',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://www.martinspriggs.com',
+  siteRepo: 'https://github.com/mspriggs/martinspriggs-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
